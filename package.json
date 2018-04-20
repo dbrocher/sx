@@ -1,0 +1,24 @@
+{
+  "name": "sx",
+  "version": "1.0.0",
+  "private": true,
+  "description": "swarmXpress project management tool.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dbrocher/sx.git"
+  },
+  "author": "Dorian Brocher",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dbrocher/sx/issues"
+  },
+  "homepage": "https://github.com/dbrocher/sx#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "express-handlebars": "^3.0.0"
+  }
+}
